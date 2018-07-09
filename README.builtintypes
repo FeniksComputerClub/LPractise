@@ -1,0 +1,14 @@
+int (all)
+bool 
+char (signed unsigned)
+float (none)
+double (long)
+
+Creating own type
+
+struct Vector3d
+{
+  double x;
+  double y;
+  double z;
+};
